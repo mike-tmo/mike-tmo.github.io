@@ -1,4 +1,4 @@
-[tourmeout_v3 (1).html](https://github.com/user-attachments/files/25768064/tourmeout_v3.1.html)
+[tourmeout_v3 (2).html](https://github.com/user-attachments/files/25768387/tourmeout_v3.2.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -632,7 +632,7 @@ cat >> /home/claude/tourmeout.html << 'CSSEOF'
       <p class="section-sub">Questions or want something bespoke? We reply within 24 hours and love hearing from curious travellers.</p>
       <div class="c-detail"><div class="c-icon">📍</div><div class="c-text"><strong>Valencia, Spain</strong><span>Meeting points shared on booking</span></div></div>
       <div class="c-detail"><div class="c-icon">✉️</div><div class="c-text"><strong><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2940474f46695d465c5b444c465c5d074a4644074c5a">[email&#160;protected]</a></strong><span>We reply within 24 hours</span></div></div>
-      <div class="c-detail"><div class="c-icon">🌐</div><div class="c-text"><strong>tourmeout.com</strong><span>Book directly on our website</span></div></div>
+      <div class="c-detail"><div class="c-icon">🌐</div><div class="c-text"><strong><a href="https://tourmeout.com" target="_blank" rel="noopener" style="color:var(--bark);text-decoration:underline;text-decoration-color:var(--sun1);text-underline-offset:3px;">tourmeout.com</a></strong><span>Book directly on our website</span></div></div>
     </div>
     <div class="c-form">
       <h3>Send a Message 🌸</h3>
